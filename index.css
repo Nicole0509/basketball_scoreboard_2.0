@@ -51,7 +51,7 @@ button {
 }
 
 footer{
-    margin: 0 460px;
+    margin: 75px 460px 0 0;
     width: 100%;
     display: flex;
     justify-content: flex-end; 

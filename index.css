@@ -23,15 +23,18 @@ h2 {
     margin-bottom: 20px;
 }
 
-.scoreboard{
+.team{
     background-color: rgb(189, 189, 230);
     min-width: 1000px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     border: 2px solid rgb(106, 106, 171);
     border-radius: 20px;
     padding: 40px;
+}
+
+.scoreboard{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 button {

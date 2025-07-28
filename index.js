@@ -31,3 +31,10 @@ function add3pointB(){
     scoreB += 3
     document.getElementById("scoreB").textContent =  scoreB
 }
+
+function reset(){
+    scoreA = 0
+    document.getElementById("scoreA").textContent =  scoreA
+    scoreB = 0
+    document.getElementById("scoreB").textContent =  scoreB
+}
